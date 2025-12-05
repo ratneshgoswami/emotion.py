@@ -1,0 +1,3 @@
+# EDCGApp Project - Full Install Commands
+
+pip install pillow textblob numpy scipy scikit-learn joblib sounddevice soundfile librosa pyaudio tensorflow tensorflow-cpu keras tk flask flask-cors transformers torch sentencepiece
